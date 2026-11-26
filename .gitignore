@@ -28,3 +28,5 @@ models/*.joblib
 # OS files
 .DS_Store
 Thumbs.db
+mlruns/
+catboost_info/
