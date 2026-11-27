@@ -31,3 +31,4 @@ Thumbs.db
 mlruns/
 catboost_info/
 mlflow.db
+tracking/
