@@ -30,3 +30,4 @@ models/*.joblib
 Thumbs.db
 mlruns/
 catboost_info/
+mlflow.db
