@@ -32,3 +32,4 @@ mlruns/
 catboost_info/
 mlflow.db
 tracking/
+artifacts/
